@@ -8,11 +8,11 @@ import (
 	sdkmath "cosmossdk.io/math"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 
-	chainconfig "github.com/ignite/cli/v28/ignite/config/chain"
-	chaincmdrunner "github.com/ignite/cli/v28/ignite/pkg/chaincmd/runner"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosfaucet"
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
-	"github.com/ignite/cli/v28/ignite/pkg/xurl"
+	chainconfig "github.com/manuelbilbao/cli/v28/ignite/config/chain"
+	chaincmdrunner "github.com/manuelbilbao/cli/v28/ignite/pkg/chaincmd/runner"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosfaucet"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/xurl"
 )
 
 var (

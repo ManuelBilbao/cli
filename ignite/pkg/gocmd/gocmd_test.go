@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
-	"github.com/ignite/cli/v28/ignite/pkg/gocmd"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/gocmd"
 )
 
 func TestIsInstallError(t *testing.T) {
@@ -24,8 +24,8 @@ func TestList(t *testing.T) {
 	assert.NoError(t, err)
 
 	ctx := context.Background()
-	packages, err := gocmd.List(ctx, wd, []string{"-m", "-f={{.Path}}", "github.com/ignite/cli/v28"})
+	packages, err := gocmd.List(ctx, wd, []string{"-m", "-f={{.Path}}", "github.com/manuelbilbao/cli/v28"})
 	assert.NoError(t, err)
 
-	assert.Contains(t, packages, "github.com/ignite/cli/v28")
+	assert.Contains(t, packages, "github.com/manuelbilbao/cli/v28")
 }

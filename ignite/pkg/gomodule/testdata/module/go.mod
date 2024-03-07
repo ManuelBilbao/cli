@@ -1,4 +1,4 @@
-module github.com/ignite/cli/ignite/pkg/gomodule
+module github.com/manuelbilbao/cli/ignite/pkg/gomodule
 
 go 1.21.0
 

@@ -11,19 +11,19 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cache"
-	"github.com/ignite/cli/v28/ignite/pkg/cliui/colors"
-	"github.com/ignite/cli/v28/ignite/pkg/cliui/icons"
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner"
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/step"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosanalysis/module"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosbuf"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosver"
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
-	"github.com/ignite/cli/v28/ignite/pkg/events"
-	"github.com/ignite/cli/v28/ignite/pkg/gomodule"
-	"github.com/ignite/cli/v28/ignite/pkg/xfilepath"
-	"github.com/ignite/cli/v28/ignite/pkg/xos"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cache"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cliui/colors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cliui/icons"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/step"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosanalysis/module"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosbuf"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosver"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/events"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/gomodule"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/xfilepath"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/xos"
 )
 
 const (

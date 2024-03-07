@@ -31,7 +31,7 @@ versions of cli to guarantee that no regression is introduced -->
 
 <!-- Remove any items that are not applicable. -->
 
-- [ ] Update Ignite CLI version (see [#3793](https://github.com/ignite/cli/pull/3793) for example):
+- [ ] Update Ignite CLI version (see [#3793](https://github.com/manuelbilbao/cli/pull/3793) for example):
   - [ ] Rename module version in go.mod to `/vXX` (where `XX` is the new version number).
   - [ ] Update plugins go plush, protos and re-generate them
   - [ ] Update documentation links (docs/docs)
@@ -39,12 +39,12 @@ versions of cli to guarantee that no regression is introduced -->
 
 ## Post-release checklist
 
-- [ ] Update [`changelog.md`](https://github.com/ignite/cli/blob/main/changelog.md)
-- [ ] Update [`readme.md](https://github.com/ignite/cli/blob/main/readme.md):
+- [ ] Update [`changelog.md`](https://github.com/manuelbilbao/cli/blob/main/changelog.md)
+- [ ] Update [`readme.md](https://github.com/manuelbilbao/cli/blob/main/readme.md):
   - [ ] Version matrix.
   - [ ] Link to Gitpod with a URL to the newly released stable version.
 - [ ] Update docs site:
-  - [ ] Add new release tag to [`docs/versioned_docs`](https://github.com/ignite/cli/tree/main/docs/versioned_docs).
+  - [ ] Add new release tag to [`docs/versioned_docs`](https://github.com/manuelbilbao/cli/tree/main/docs/versioned_docs).
 - [ ] After changes to docs site are deployed, check [docs.ignite.com/](https://docs.ignite.com/) is updated.
 
 ____

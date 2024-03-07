@@ -12,16 +12,16 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	chainconfig "github.com/ignite/cli/v28/ignite/config/chain"
-	"github.com/ignite/cli/v28/ignite/config/chain/base"
-	"github.com/ignite/cli/v28/ignite/pkg/cliui/entrywriter"
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/step"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosaccount"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosclient"
-	"github.com/ignite/cli/v28/ignite/pkg/randstr"
-	"github.com/ignite/cli/v28/ignite/pkg/xurl"
-	xyaml "github.com/ignite/cli/v28/ignite/pkg/yaml"
-	envtest "github.com/ignite/cli/v28/integration"
+	chainconfig "github.com/manuelbilbao/cli/v28/ignite/config/chain"
+	"github.com/manuelbilbao/cli/v28/ignite/config/chain/base"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cliui/entrywriter"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/step"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosaccount"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosclient"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/randstr"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/xurl"
+	xyaml "github.com/manuelbilbao/cli/v28/ignite/pkg/yaml"
+	envtest "github.com/manuelbilbao/cli/v28/integration"
 )
 
 const (

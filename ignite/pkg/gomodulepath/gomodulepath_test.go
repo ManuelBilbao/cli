@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
 )
 
 func TestParse(t *testing.T) {
@@ -123,7 +123,7 @@ func TestExtractAppPath(t *testing.T) {
 	}{
 		{
 			name: "github uri",
-			path: "github.com/ignite/cli",
+			path: "github.com/manuelbilbao/cli",
 			want: "ignite/cli",
 		},
 		{
@@ -166,7 +166,7 @@ func TestExtractAppPath(t *testing.T) {
 }
 
 func TestValidateURIPath(t *testing.T) {
-	require.NoError(t, validateURIPath("github.com/ignite/cli/v28"))
+	require.NoError(t, validateURIPath("github.com/manuelbilbao/cli/v28"))
 }
 
 func TestValidateURIPathWithInvalidPath(t *testing.T) {

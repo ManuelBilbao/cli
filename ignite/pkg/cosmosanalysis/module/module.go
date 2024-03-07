@@ -9,12 +9,12 @@ import (
 
 	"golang.org/x/mod/semver"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosanalysis"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosanalysis/app"
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
-	"github.com/ignite/cli/v28/ignite/pkg/gomodule"
-	"github.com/ignite/cli/v28/ignite/pkg/protoanalysis"
-	"github.com/ignite/cli/v28/ignite/pkg/xstrings"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosanalysis"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosanalysis/app"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/gomodule"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/protoanalysis"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/xstrings"
 )
 
 // Msgs is a module import path-sdk msgs pair.

@@ -115,10 +115,10 @@ container.
 
 - By default, `ignite/cli` resolves to `ignite/cli:latest`.
 - The `latest` image tag is always the latest stable [Ignite CLI
-  release](https://github.com/ignite/cli/releases).
+  release](https://github.com/manuelbilbao/cli/releases).
 
 For example, if latest release is
-[v0.25.2](https://github.com/ignite/cli/releases/tag/v0.25.2), the `latest` tag
+[v0.25.2](https://github.com/manuelbilbao/cli/releases/tag/v0.25.2), the `latest` tag
 points to the `0.25.2` tag.
 
 ### Specific version

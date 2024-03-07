@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ignite/cli/v28/ignite/pkg/jsonfile"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/jsonfile"
 )
 
 const (

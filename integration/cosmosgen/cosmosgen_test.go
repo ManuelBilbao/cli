@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/step"
-	envtest "github.com/ignite/cli/v28/integration"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/step"
+	envtest "github.com/manuelbilbao/cli/v28/integration"
 )
 
 func TestCosmosGenScaffold(t *testing.T) {

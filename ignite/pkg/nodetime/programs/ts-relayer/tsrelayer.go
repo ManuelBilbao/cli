@@ -10,10 +10,10 @@ import (
 	"github.com/gorilla/rpc/v2/json2"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner"
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/step"
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
-	"github.com/ignite/cli/v28/ignite/pkg/nodetime"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/step"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/nodetime"
 )
 
 // Call calls a method in the ts relayer wrapper lib with args and fills reply from the returned value.

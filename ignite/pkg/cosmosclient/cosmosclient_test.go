@@ -22,12 +22,12 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosaccount"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosclient"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosclient/mocks"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosclient/testutil"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosfaucet"
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosaccount"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosclient"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosclient/mocks"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosclient/testutil"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosfaucet"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
 )
 
 const (

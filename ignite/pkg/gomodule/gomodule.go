@@ -14,11 +14,11 @@ import (
 	"golang.org/x/mod/modfile"
 	"golang.org/x/mod/module"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cache"
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/exec"
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/step"
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
-	"github.com/ignite/cli/v28/ignite/pkg/gocmd"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cache"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/exec"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/step"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/gocmd"
 )
 
 const pathCacheNamespace = "gomodule.path"

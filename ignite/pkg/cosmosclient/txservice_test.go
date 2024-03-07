@@ -14,9 +14,9 @@ import (
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosaccount"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosclient"
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosaccount"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosclient"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
 )
 
 func TestTxServiceBroadcast(t *testing.T) {

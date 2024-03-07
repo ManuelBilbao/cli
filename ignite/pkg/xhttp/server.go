@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
 )
 
 // ShutdownTimeout is the timeout for waiting all requests to complete.

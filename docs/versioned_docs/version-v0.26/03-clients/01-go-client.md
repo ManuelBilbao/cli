@@ -81,7 +81,7 @@ go 1.19
 
 require (
 	blog v0.0.0-00010101000000-000000000000
-	github.com/ignite/cli v0.25.2
+	github.com/manuelbilbao/cli v0.25.2
 )
 
 replace blog => ../blog
@@ -119,7 +119,7 @@ import (
 	"log"
 
 	// Importing the general purpose Cosmos blockchain client
-	"github.com/ignite/cli/ignite/pkg/cosmosclient"
+	"github.com/manuelbilbao/cli/ignite/pkg/cosmosclient"
 
 	// Importing the types package of your blog blockchain
 	"blog/x/blog/types"
@@ -207,7 +207,7 @@ post on the `blog` blockchain using the client.
 
 To find out more about the `cosmosclient` package, you can refer to the Go
 package documentation for
-[`cosmosclient`](https://pkg.go.dev/github.com/ignite/cli/ignite/pkg/cosmosclient).
+[`cosmosclient`](https://pkg.go.dev/github.com/manuelbilbao/cli/ignite/pkg/cosmosclient).
 This documentation provides information on how to use the `Client` type with
 `Options` and `KeyringBackend`.
 

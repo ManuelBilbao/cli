@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ignite/cli/blob/main/LICENSE">
+  <a href="https://github.com/manuelbilbao/cli/blob/main/LICENSE">
     <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/cosmos/cosmos-sdk.svg" />
   </a>
-  <a href="https://pkg.go.dev/github.com/ignite/cli?tab=doc">
-    <img alt="GoDoc" src="https://pkg.go.dev/badge/github.com/ignite/cli.svg" />
+  <a href="https://pkg.go.dev/github.com/manuelbilbao/cli?tab=doc">
+    <img alt="GoDoc" src="https://pkg.go.dev/badge/github.com/manuelbilbao/cli.svg" />
   </a>
-  <a href="https://goreportcard.com/report/github.com/ignite/cli">
-    <img alt="Go report card" src="https://goreportcard.com/badge/github.com/ignite/cli" />
+  <a href="https://goreportcard.com/report/github.com/manuelbilbao/cli">
+    <img alt="Go report card" src="https://goreportcard.com/badge/github.com/manuelbilbao/cli" />
   </a>
 <!--
   <a href="https://codecov.io/gh/ignite/cli">
@@ -19,11 +19,11 @@
 -->
 </div>
 <div align="center">
-  <a href="https://github.com/ignite/cli">
+  <a href="https://github.com/manuelbilbao/cli">
     <img alt="Lines Of Code" src="https://tokei.rs/b1/github/ignite/cli" />
   </a>
-    <img alt="Test Status" src="https://github.com/ignite/cli/workflows/Test/badge.svg" />
-    <img alt="Lint Status" src="https://github.com/ignite/cli/workflows/Lint/badge.svg" />
+    <img alt="Test Status" src="https://github.com/manuelbilbao/cli/workflows/Test/badge.svg" />
+    <img alt="Lint Status" src="https://github.com/manuelbilbao/cli/workflows/Lint/badge.svg" />
     <a href="https://discord.gg/STGn7vqT" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/893126937067802685"></a>
 </div>
 
@@ -78,7 +78,7 @@ sudo chown -R $(whoami) /usr/local/bin
 
 For more options on installing and using Ignite, please see the following:
 
-Open Ignite CLI [in your web browser](https://gitpod.io/#https://github.com/ignite/cli/tree/v28.1.1) (or open [nightly version](https://gitpod.io/#https://github.com/ignite/cli)), or [install the latest release](https://docs.ignite.com/welcome/install).
+Open Ignite CLI [in your web browser](https://gitpod.io/#https://github.com/manuelbilbao/cli/tree/v28.1.1) (or open [nightly version](https://gitpod.io/#https://github.com/manuelbilbao/cli)), or [install the latest release](https://docs.ignite.com/welcome/install).
 
 To create and start a blockchain:
 
@@ -176,7 +176,7 @@ pull request.
 
 Our Ignite CLI bounty program provides incentives for your participation and
 pays rewards. Track new, in-progress, and completed bounties on the [Bounty
-board](https://github.com/ignite/cli/projects/5) in GitHub.
+board](https://github.com/manuelbilbao/cli/projects/5) in GitHub.
 
 **Important** Before you start implementing a new Ignite CLI feature, the first
 step is to create an issue on GitHub that describes the proposed changes.

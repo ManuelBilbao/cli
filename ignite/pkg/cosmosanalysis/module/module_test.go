@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosanalysis/module"
-	"github.com/ignite/cli/v28/ignite/pkg/protoanalysis"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosanalysis/module"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/protoanalysis"
 )
 
 func newModule(relChainPath, goImportPath string) module.Module {

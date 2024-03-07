@@ -6,7 +6,7 @@ import ProjectsTable from '@site/src/components/ProjectsTable';
 
 # Introduction to Ignite
 
-[Ignite CLI](https://github.com/ignite/cli) offers everything you need to build, test, and launch your blockchain with a
+[Ignite CLI](https://github.com/manuelbilbao/cli) offers everything you need to build, test, and launch your blockchain with a
 decentralized worldwide community. Ignite CLI is built on top of [Cosmos SDK](https://docs.cosmos.network), the world’s
 most popular blockchain framework. Ignite CLI accelerates chain development by scaffolding everything you need so you
 can focus on business logic.

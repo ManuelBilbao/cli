@@ -18,15 +18,15 @@ import (
 	"github.com/stretchr/testify/require"
 	"gopkg.in/yaml.v2"
 
-	"github.com/ignite/cli/v28/ignite/config/chain"
-	"github.com/ignite/cli/v28/ignite/config/chain/base"
-	v1 "github.com/ignite/cli/v28/ignite/config/chain/v1"
-	"github.com/ignite/cli/v28/ignite/pkg/availableport"
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner"
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/step"
-	"github.com/ignite/cli/v28/ignite/pkg/goanalysis"
-	yamlmap "github.com/ignite/cli/v28/ignite/pkg/yaml"
-	envtest "github.com/ignite/cli/v28/integration"
+	"github.com/manuelbilbao/cli/v28/ignite/config/chain"
+	"github.com/manuelbilbao/cli/v28/ignite/config/chain/base"
+	v1 "github.com/manuelbilbao/cli/v28/ignite/config/chain/v1"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/availableport"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/step"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/goanalysis"
+	yamlmap "github.com/manuelbilbao/cli/v28/ignite/pkg/yaml"
+	envtest "github.com/manuelbilbao/cli/v28/integration"
 )
 
 const (

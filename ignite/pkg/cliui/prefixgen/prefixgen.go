@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cliui/colors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cliui/colors"
 )
 
 // Prefixer generates prefixes.

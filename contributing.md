@@ -12,7 +12,7 @@
 
 Before you create a new PR on Ignite CLI, make sure that you read and comply with this document.
 
-Start a new [Discussion](https://github.com/ignite/cli/discussions/new) if you want to propose changes to this document.
+Start a new [Discussion](https://github.com/manuelbilbao/cli/discussions/new) if you want to propose changes to this document.
 
 To prepare for success, see [Set Up Your Ignite CLI Development Environment](dev-env-setup.md).
 
@@ -23,10 +23,10 @@ Thank you for your contribution!
 ## Providing Feedback
 
 * Before you open an issue, do a web search, and check
-  for [existing open and closed GitHub Issues](https://github.com/ignite/cli/issues) to see if your question has already
+  for [existing open and closed GitHub Issues](https://github.com/manuelbilbao/cli/issues) to see if your question has already
   been asked and answered. If you find a relevant topic, you can comment on that issue.
 
-* To provide feedback or ask a question, create a [GitHub issue](https://github.com/ignite/cli/issues/new/choose). Be
+* To provide feedback or ask a question, create a [GitHub issue](https://github.com/manuelbilbao/cli/issues/new/choose). Be
   sure to provide the relevant information, case study, or informative links as suggested by the Pull Request template.
 
 * We recommend using GitHub issues for issues and feedback. However, you can ask quick questions on the **#🛠️
@@ -83,7 +83,7 @@ can take over and assume the ownership.
 Ignite CLI follows Git Flow for branch
 strategy <https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow>.
 
-* Each Ignite CLI release has a milestone, see <https://github.com/ignite/cli/milestones>.
+* Each Ignite CLI release has a milestone, see <https://github.com/manuelbilbao/cli/milestones>.
 
 * Issues in each milestone have a **priority/high**, **priority/medium**, or **priority/low** label.
 
@@ -98,7 +98,7 @@ strategy <https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-wo
     * Issues in the **Next** milestone usually have a lower priority than milestones that are associated with a release
       version, like **Milestone v0.1.0**.
 
-* A single project board <https://github.com/ignite/cli/projects/4> shows the issues we are currently working on and
+* A single project board <https://github.com/manuelbilbao/cli/projects/4> shows the issues we are currently working on and
   what issues we plan to work on.
 
 We appreciate your contribution!

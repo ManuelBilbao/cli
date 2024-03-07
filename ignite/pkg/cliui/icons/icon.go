@@ -1,7 +1,7 @@
 package icons
 
 import (
-	"github.com/ignite/cli/v28/ignite/pkg/cliui/colors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cliui/colors"
 )
 
 var (

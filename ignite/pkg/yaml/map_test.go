@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"gopkg.in/yaml.v2"
 
-	xyaml "github.com/ignite/cli/v28/ignite/pkg/yaml"
+	xyaml "github.com/manuelbilbao/cli/v28/ignite/pkg/yaml"
 )
 
 func TestUnmarshalWithCustomMapType(t *testing.T) {

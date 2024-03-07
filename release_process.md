@@ -47,7 +47,7 @@ The process differs depending on whether the release is a `MAJOR`, `MINOR`, or `
 
 ## Release Publication
 
-Once the release is ready, it can be published to the [releases page](https://github.com/ignite/cli/releases) on GitHub. This involves tagging the release branch with the release version and creating a release announcement. The release anouncement should contain the changelog of the release.
+Once the release is ready, it can be published to the [releases page](https://github.com/manuelbilbao/cli/releases) on GitHub. This involves tagging the release branch with the release version and creating a release announcement. The release anouncement should contain the changelog of the release.
 
 ```bash
 git checkout release/v28.x.y

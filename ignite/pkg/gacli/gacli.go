@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
 )
 
 type (

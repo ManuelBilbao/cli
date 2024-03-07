@@ -3,7 +3,7 @@ package events
 import (
 	"fmt"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cliui/colors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cliui/colors"
 )
 
 // DefaultBufferSize defines the default maximum number

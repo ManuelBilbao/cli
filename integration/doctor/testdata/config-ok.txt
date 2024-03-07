@@ -6,7 +6,7 @@ stdout 'config file OK'
 -- config.yml --
 version: 1
 -- go.mod --
-module github.com/ignite/cli
+module github.com/manuelbilbao/cli
 
 go 1.20
 -- tools/tools.go --

@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/goanalysis"
-	"github.com/ignite/cli/v28/ignite/pkg/xast"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/goanalysis"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/xast"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/exec"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/exec"
 )
 
 // Config represent swagger-combine config.

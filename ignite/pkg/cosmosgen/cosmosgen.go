@@ -9,10 +9,10 @@ import (
 	"github.com/iancoleman/strcase"
 	gomodule "golang.org/x/mod/module"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cache"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosanalysis/module"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosbuf"
-	"github.com/ignite/cli/v28/ignite/pkg/events"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cache"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosanalysis/module"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosbuf"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/events"
 )
 
 // generateOptions used to configure code generation.

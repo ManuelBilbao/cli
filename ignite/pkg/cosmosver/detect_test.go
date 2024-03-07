@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosver"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosver"
 )
 
 func TestDetect(t *testing.T) {

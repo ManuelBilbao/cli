@@ -50,15 +50,15 @@ linters-settings:
   forbidigo:
     forbid:
       - p: ^fmt\.Errorf$
-        msg: fmt.Errorf should be replaced by '"github.com/ignite/cli/ignite/pkg/errors"'
+        msg: fmt.Errorf should be replaced by '"github.com/manuelbilbao/cli/ignite/pkg/errors"'
   depguard:
     rules:
       main:
         deny:
           - pkg: "errors"
-            desc: Should be replaced by '"github.com/ignite/cli/ignite/pkg/errors"'
+            desc: Should be replaced by '"github.com/manuelbilbao/cli/ignite/pkg/errors"'
           - pkg: "github.com/pkg/errors"
-            desc: Should be replaced by '"github.com/ignite/cli/ignite/pkg/errors"'
+            desc: Should be replaced by '"github.com/manuelbilbao/cli/ignite/pkg/errors"'
 
 issues:
   max-issues-per-linter: 0

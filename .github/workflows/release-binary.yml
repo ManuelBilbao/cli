@@ -12,7 +12,7 @@ jobs:
   binary:
     runs-on: ubuntu-latest
     env:
-      working-directory: go/src/github.com/ignite/cli
+      working-directory: go/src/github.com/manuelbilbao/cli
 
     steps:
       - name: Set up Go

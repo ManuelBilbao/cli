@@ -15,23 +15,23 @@ import (
 	"golang.org/x/mod/module"
 	"golang.org/x/mod/semver"
 
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
-	"github.com/ignite/cli/v28/ignite/pkg/gomodule"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/gomodule"
 )
 
 // Path represents a Go module's path.
 type Path struct {
 	// Path is Go module's full path.
-	// e.g.: github.com/ignite/cli.
+	// e.g.: github.com/manuelbilbao/cli.
 	RawPath string
 
 	// Root is the root directory name of Go module.
-	// e.g.: cli for github.com/ignite/cli.
+	// e.g.: cli for github.com/manuelbilbao/cli.
 	Root string
 
 	// Package is the default package name for the Go module that can be used
 	// to host main functionality of the module.
-	// e.g.: cli for github.com/ignite/cli.
+	// e.g.: cli for github.com/manuelbilbao/cli.
 	Package string
 }
 

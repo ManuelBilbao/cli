@@ -10,10 +10,10 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	chainconfig "github.com/ignite/cli/v28/ignite/config/chain"
-	"github.com/ignite/cli/v28/ignite/pkg/confile"
-	"github.com/ignite/cli/v28/ignite/pkg/randstr"
-	envtest "github.com/ignite/cli/v28/integration"
+	chainconfig "github.com/manuelbilbao/cli/v28/ignite/config/chain"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/confile"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/randstr"
+	envtest "github.com/manuelbilbao/cli/v28/integration"
 )
 
 func TestOverwriteSDKConfigsAndChainID(t *testing.T) {

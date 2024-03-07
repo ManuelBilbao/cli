@@ -7,8 +7,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosanalysis"
-	"github.com/ignite/cli/v28/ignite/pkg/gomodule"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosanalysis"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/gomodule"
 )
 
 var (

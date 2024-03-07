@@ -11,7 +11,7 @@ and documentation.
 
 ## Using this repo
 
-Review existing [Ignite CLI issues](https://github.com/ignite/cli/issues) to see
+Review existing [Ignite CLI issues](https://github.com/manuelbilbao/cli/issues) to see
 if your question has already been asked and answered.
 
 - To provide feedback, file an issue and provide generous details to help us
@@ -89,7 +89,7 @@ improving the developer experience. The Ignite Ecosystem Development team owns
 the technical content and tutorials and manages developer onboarding.
 
 Meet the [people behind Ignite CLI and our
-contributors](https://github.com/ignite/cli/graphs/contributors).
+contributors](https://github.com/manuelbilbao/cli/graphs/contributors).
 
 ## Viewing docs builds
 

@@ -10,10 +10,10 @@ import (
 	"github.com/imdario/mergo"
 	"golang.org/x/sync/errgroup"
 
-	chainconfig "github.com/ignite/cli/v28/ignite/config/chain"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosanalysis/module"
-	"github.com/ignite/cli/v28/ignite/pkg/errors"
-	"github.com/ignite/cli/v28/ignite/pkg/gomodulepath"
+	chainconfig "github.com/manuelbilbao/cli/v28/ignite/config/chain"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosanalysis/module"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/errors"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/gomodulepath"
 )
 
 type vuexGenerator struct {

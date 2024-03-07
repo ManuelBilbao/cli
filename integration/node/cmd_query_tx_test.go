@@ -8,11 +8,11 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ignite/cli/v28/ignite/pkg/cmdrunner/step"
-	"github.com/ignite/cli/v28/ignite/pkg/cosmosclient"
-	"github.com/ignite/cli/v28/ignite/pkg/randstr"
-	"github.com/ignite/cli/v28/ignite/pkg/xurl"
-	envtest "github.com/ignite/cli/v28/integration"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cmdrunner/step"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/cosmosclient"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/randstr"
+	"github.com/manuelbilbao/cli/v28/ignite/pkg/xurl"
+	envtest "github.com/manuelbilbao/cli/v28/integration"
 )
 
 func TestNodeQueryTx(t *testing.T) {
