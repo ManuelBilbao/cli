@@ -19,7 +19,7 @@ const (
 	commandAddGenesisAccount = "add-genesis-account"
 	commandGentx             = "gentx"
 	commandCollectGentxs     = "collect-gentxs"
-	commandValidateGenesis   = "validate"
+	commandValidateGenesis   = "genesis validate"
 	commandShowNodeID        = "show-node-id"
 	commandStatus            = "status"
 	commandTx                = "tx"
